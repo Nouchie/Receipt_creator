@@ -1,0 +1,7 @@
+This is a Receipt creator.
+It creates receipts by writing an predefined template. 
+The app has 3 views, the login screen, the receipt creating screen and the receipt viewer.
+The log in uses bcrypt as authentication.
+The database that keeps the receipts are sqlite.
+The receipts are stored in a csv and can be viewed
+In the receipt creator, you can create receipts, print receipts and view receipts that have already been created.
